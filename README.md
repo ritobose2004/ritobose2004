@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front end Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email-ritobratab.cse.jisu21@gmail.com
+- 📫 How to reach me ritobratab.cse.jisu21@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My life..😉
 
